@@ -1,0 +1,14 @@
+{
+  "name": "heli-csv-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Turns today's Heli price list into a diff report vs yesterday + vs the BCS catalog, and a ready-to-import CSV for new/changed products.",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.1",
+    "xlsx": "^0.18.5"
+  }
+}
