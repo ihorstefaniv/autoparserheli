@@ -28,6 +28,7 @@ npm install
    - `new-cards-draft-<дата>.csv` — готовий до імпорту в Data.Imports (тільки
      new+changed рядки, формат `items.csv`).
    - `report-<дата>.csv` — повний статус по кожній моделі з прайсу.
+   - `heli-feed-<дата>.xml` — той самий new+changed набір у XML (див. нижче).
 5. `snapshots/<дата>.json` зберігається автоматично щоразу — це і є "вчора" для
    наступного запуску. Не видаляй без потреби.
 
@@ -53,6 +54,30 @@ node generate.js --no-snapshot   # прогнати без збереження/
 модель з'явиться в `items.csv` (картку імпортували) — вона природно стає
 `changed`/`unchanged`, і Item-и в реєстрі більше не впливають.
 
+## XML-фід для BCS Data.Imports (url + interval)
+
+`out/heli-feed-<дата>.xml` — той самий new+changed набір рядків, що й у
+new-cards-draft CSV, у форматі `<products><product>...</product></products>`
+(поле = тег, назви полів ті самі, що в `items.csv`, тільки `/` замінено на `_`,
+бо в XML-тегах `/` не можна — напр. `capacity/t` → `capacity_t`). Це під
+`UniversalImportAdapter.parseXml`'s generic-шлях у BCS-Backend — один корінь з
+повторюваним дочірнім тегом, без вкладеності, мапиться так само, як CSV-рядок.
+
+Кожен `<product>` несе `is_active` (true/false):
+- `changed` (картка вже існує) → `true` — вона й так вже жива, ми лише
+  оновлюємо специфікацію/ціну.
+- `new` (картки нема) → `false` — нова картка створюється, але прихована, бо
+  `Name`/`description_details` тут ще заглушка (див. нижче). Хтось вручну
+  вмикає `is_active`, коли пройде AI-полірування.
+
+`is_active` — новий атрибут у BCS під категорію forklift, ще не існував до
+цього фіду.
+
+Стабільний URL для BCS (`DataSource: url`, `DataFormat: xml`, `Interval: ...`):
+`https://raw.githubusercontent.com/ihorstefaniv/autoparserheli/main/feed/heli-import.xml`
+— хмарний routine щодня комітить туди свіжий XML (репо має бути публічним, інакше
+raw.githubusercontent.com не віддасть вміст без авторизації).
+
 ## Що воно НЕ робить (свідомо)
 
 - Не пише `description_details`/полірований `name` — це поки що через AI-кнопку в
@@ -60,8 +85,9 @@ node generate.js --no-snapshot   # прогнати без збереження/
   `"<Тип> <Модель>"`, щоб поле не було порожнім/undefined.
 - Не мапить `mast_type` — колонка MAST у прайсі це код контролера (ZSM470), а не
   Standard/Duplex/Triplex.
-- Не пише нічого в BCS напряму — тільки файли на диск. Автоімпорт у БД — наступний
-  крок, коли CSV на 100% перевірений.
+- У БД сам нічого не пише — тільки файли на диск + XML-фід за фіксованим URL.
+  Import у BCS (CSV вручну, або XML через Data.Imports url+interval) лишається
+  окремим кроком/налаштуванням на стороні BCS.
 
 ## Структура
 
@@ -71,5 +97,9 @@ node generate.js --no-snapshot   # прогнати без збереження/
 - `lib/shared.js` — норм-функції + `deriveTechFields`
 - `lib/snapshot.js` — збереження/читання/дифф знімків дня
 - `lib/buildDraftCsv.js` — класифікація new/new-pending/changed/first-seen/unchanged + побудова CSV-рядків
+  (і спільний `buildRowFields`, яким користується й XML-фід)
+- `lib/buildFeedXml.js` — той самий new+changed набір у XML для BCS Data.Imports
 - `lib/exportedRegistry.js` — `state/exported-items.json`, реєстр Item-ів, що вже пішли в
   draft як "new" (щоб не дублювати картку, поки чекає імпорту)
+- `feed/heli-import.xml` — фіксований шлях, куди хмарний routine комітить свіжий XML
+  щодня (стабільний URL для BCS, дивись розділ вище)

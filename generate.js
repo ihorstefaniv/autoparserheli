@@ -28,6 +28,7 @@ const { parsePriceFile } = require('./lib/parsePriceFile');
 const { parseCatalog } = require('./lib/parseCatalog');
 const { saveSnapshot, loadPreviousSnapshot, diffSnapshots } = require('./lib/snapshot');
 const { classify, buildDraftRows } = require('./lib/buildDraftCsv');
+const { buildFeedXml } = require('./lib/buildFeedXml');
 const { loadExportedItemIds, saveExportedItemIds } = require('./lib/exportedRegistry');
 
 function parseArgs(argv) {
@@ -140,6 +141,13 @@ function main() {
   } else {
     console.log('Нових чи змінених карток немає — CSV не пишу.');
   }
+  console.log('');
+
+  // ---- BCS auto-import XML feed (same new/changed scope as the draft CSV) ----
+  const feedXml = buildFeedXml(classified);
+  const feedPath = path.join(outDir, `heli-feed-${date}.xml`);
+  fs.writeFileSync(feedPath, feedXml, 'utf8');
+  console.log(`Написав ${feedPath} (XML-фід для BCS Data.Imports)`);
   console.log('');
 
   // ---- mark this run's "new" items as drafted, so they aren't redrafted
