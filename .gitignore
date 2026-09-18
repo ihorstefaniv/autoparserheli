@@ -4,4 +4,6 @@ out/*.xml
 snapshots/*.json
 state/*.json
 /heli-price.xlsx
+/heli-price-live.xlsx
+/heli-price-live.csv
 /items.csv
