@@ -29,6 +29,7 @@ const { parseCatalog } = require('./lib/parseCatalog');
 const { saveSnapshot, loadPreviousSnapshot, diffSnapshots } = require('./lib/snapshot');
 const { classify, buildDraftRows } = require('./lib/buildDraftCsv');
 const { buildFeedXml } = require('./lib/buildFeedXml');
+const { PRODUCT_ATTRIBUTES } = require('./lib/productSchema');
 const { loadExportedItemIds, saveExportedItemIds } = require('./lib/exportedRegistry');
 
 function parseArgs(argv) {
@@ -157,9 +158,11 @@ function main() {
   console.log('');
 
   // ---- draft CSV (new + changed only) ----
-  const { rows, rowMeta } = buildDraftRows(classified, catalog.headers);
+  // Uses the real BCS attribute schema (lib/productSchema.js), not items.csv's
+  // own headers - see buildRowFields' comment for why.
+  const { rows, rowMeta } = buildDraftRows(classified, PRODUCT_ATTRIBUTES);
   if (rows.length) {
-    const csv = Papa.unparse({ fields: catalog.headers, data: rows }, { quotes: false });
+    const csv = Papa.unparse({ fields: PRODUCT_ATTRIBUTES, data: rows }, { quotes: false });
     const draftPath = path.join(outDir, `new-cards-draft-${date}.csv`);
     fs.writeFileSync(draftPath, csv, 'utf8');
     console.log(`Написав ${draftPath} (${rows.length} рядків: ${rowMeta.filter((r) => r.status === 'new').length} нових, ${rowMeta.filter((r) => r.status === 'changed').length} оновлених)`);
@@ -170,7 +173,7 @@ function main() {
   console.log('');
 
   // ---- BCS auto-import XML feed (same new/changed scope as the draft CSV) ----
-  const feedXml = buildFeedXml(classified, catalog.headers);
+  const feedXml = buildFeedXml(classified, PRODUCT_ATTRIBUTES);
   const feedPath = path.join(outDir, `heli-feed-${date}.xml`);
   fs.writeFileSync(feedPath, feedXml, 'utf8');
   console.log(`Написав ${feedPath} (XML-фід для BCS Data.Imports)`);

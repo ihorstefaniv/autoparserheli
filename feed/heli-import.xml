@@ -4,880 +4,924 @@
     <Id></Id>
     <ExternalId>CBD15-BLIH</ExternalId>
     <Name>Elektrostapler CBD15-BLIH</Name>
-    <_axes_number></_axes_number>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah>24/40</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>false</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 40Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CBD15-BLIH</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: / | Tyres: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: / | Tyres: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>false</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CBD15C-LI4</ExternalId>
     <Name>Elektrostapler CBD15C-LI4</Name>
-    <_axes_number></_axes_number>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah>48/10</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>48V / 10Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CBD15C-LI4</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CBD20C-LI4</ExternalId>
     <Name>Elektrostapler CBD20C-LI4</Name>
-    <_axes_number></_axes_number>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah>48/20</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>48V / 20Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CBD20C-LI4</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CBD25-A2FLIH</ExternalId>
     <Name>Elektrostapler CBD25-A2FLIH</Name>
-    <_axes_number></_axes_number>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah></battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery></battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CBD25-A2FLIH</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CDD12R-S</ExternalId>
     <Name>Elektrostapler CDD12R-S</Name>
-    <_axes_number></_axes_number>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
     <battery></battery>
-    <battery_voltage_v_ah></battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CDD12R-S</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: M250 | Tyres: / | Attachments: / | Cabin: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: M250 | Tyres: / | Attachments: / | Cabin: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CDD15C-S</ExternalId>
     <Name>Elektrostapler CDD15C-S</Name>
-    <_axes_number></_axes_number>
-    <battery></battery>
-    <battery_voltage_v_ah>24/85</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 85Ah</battery>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CDD15C-S</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CDD15J</ExternalId>
     <Name>Elektrostapler CDD15J</Name>
-    <_axes_number></_axes_number>
-    <battery></battery>
-    <battery_voltage_v_ah>24/100</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 100Ah</battery>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CDD15J</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: M300 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: M300 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CDD15J-ZSM</ExternalId>
     <Name>Elektrostapler CDD15J-ZSM</Name>
-    <_axes_number></_axes_number>
-    <battery></battery>
-    <battery_voltage_v_ah>24/210</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 210Ah</battery>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CDD15J-ZSM</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: ZSM400 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: ZSM400 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CDD16-A2FLIH</ExternalId>
     <Name>Elektrostapler CDD16-A2FLIH</Name>
-    <_axes_number></_axes_number>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah>24/205</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 205Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CDD16-A2FLIH</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: ZSM540 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: ZSM540 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CDD20-A2FLIH</ExternalId>
     <Name>Elektrostapler CDD20-A2FLIH</Name>
-    <_axes_number></_axes_number>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah>24/300</battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Elektro</engine_type>
-    <free_lift></free_lift>
-    <front_tires>/</front_tires>
-    <ground_pressure></ground_pressure>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 300Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype>Elektro</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CDD20-A2FLIH</model>
-    <motor></motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: ZSM470 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>/</rear_tires>
-    <series>-</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: ZSM470 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>-</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
   <product>
     <Id></Id>
     <ExternalId>CPCD25-KU24RG3</ExternalId>
     <Name>Dieselstapler CPCD25-KU24RG3</Name>
-    <_axes_number></_axes_number>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
     <battery></battery>
-    <battery_voltage_v_ah></battery_voltage_v_ah>
-    <brand>Heli</brand>
-    <bucket_capacity></bucket_capacity>
-    <capacity_kg></capacity_kg>
-    <capacity_t></capacity_t>
-    <category></category>
-    <centrifugal_force></centrifugal_force>
-    <cubic_capacity_cm_></cubic_capacity_cm_>
-    <description_details></description_details>
-    <digging_depth_mm></digging_depth_mm>
-    <engine_charger></engine_charger>
-    <engine_power_kw></engine_power_kw>
-    <engine_rated></engine_rated>
-    <engine_type>Diesel</engine_type>
-    <free_lift></free_lift>
-    <front_tires>Solid Tyres</front_tires>
-    <ground_pressure></ground_pressure>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine>KUBOTA V2403</engine>
+    <enginetype>Diesel</enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
     <has_image></has_image>
     <height></height>
-    <height_mm></height_mm>
-    <length_mm></length_mm>
-    <lifting_height_m></lifting_height_m>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_mm_char></lifting_height_mm_char>
-    <load_capacity_kg></load_capacity_kg>
-    <load_center_mm></load_center_mm>
-    <mast_type></mast_type>
-    <max_torque></max_torque>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
     <model>CPCD25-KU24RG3</model>
-    <motor>KUBOTA V2403</motor>
-    <operating_weight_kg></operating_weight_kg>
-    <operator_type></operator_type>
-    <options>MAST: ZSM600 | Tyres: Solid Tyres | Attachments: HELI Hook-on Side-shift | Cabin: Cabin and heater | Special: /</options>
-    <platform_height_mm></platform_height_mm>
-    <prospekt></prospekt>
-    <rear_tires>Solid Tyres</rear_tires>
-    <series>G3</series>
-    <sorting_number></sorting_number>
-    <special_equipment></special_equipment>
-    <speed></speed>
-    <sub-category></sub-category>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: ZSM600 | Tyres: Solid Tyres | Attachments: HELI Hook-on Side-shift | Cabin: Cabin and heater | Special: /</techdescr>
+    <toc></toc>
     <transmission></transmission>
-    <turning_radius_mm></turning_radius_mm>
     <type></type>
-    <video></video>
-    <visual_filters_link></visual_filters_link>
-    <wide_mm></wide_mm>
-    <working_height_m></working_height_m>
-    <working_radius></working_radius>
-    <_1_category_pl></_1_category_pl>
-    <_1_description_details_pl></_1_description_details_pl>
-    <_1_engine_type_pl></_1_engine_type_pl>
-    <_1_operator_type_pl></_1_operator_type_pl>
-    <_1_prospekt_pl></_1_prospekt_pl>
-    <_1_sub-category_pl></_1_sub-category_pl>
-    <_1_type_pl></_1_type_pl>
-    <category_fr></category_fr>
-    <description_details_fr></description_details_fr>
-    <engine_type_fr></engine_type_fr>
-    <operator_type_fr></operator_type_fr>
-    <prospekt_fr></prospekt_fr>
-    <sub-category_fr></sub-category_fr>
-    <type_fr></type_fr>
-    <description></description>
-    <Image1></Image1>
-    <Image2></Image2>
-    <Image3></Image3>
-    <Image4></Image4>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>Solid Tyres</tyresfront>
+    <tyresrear>Solid Tyres</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <series>G3</series>
     <is_active>false</is_active>
-    <available>true</available>
   </product>
 </products>
