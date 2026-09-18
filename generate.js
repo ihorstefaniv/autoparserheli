@@ -50,7 +50,7 @@ function parseArgs(argv) {
 function findDefaultPricesFile(rootDir) {
   const candidates = fs
     .readdirSync(rootDir)
-    .filter((f) => /heli.*price/i.test(f) && /\.(xls|xlsx|csv)$/i.test(f) && !f.startsWith('~$'))
+    .filter((f) => /heli.*(price|stock)/i.test(f) && /\.(xls|xlsx|csv)$/i.test(f) && !f.startsWith('~$') && !f.startsWith('.~lock'))
     .map((f) => ({ f, mtime: fs.statSync(path.join(rootDir, f)).mtimeMs }))
     .sort((a, b) => b.mtime - a.mtime);
   return candidates.length ? path.join(rootDir, candidates[0].f) : null;
@@ -71,7 +71,7 @@ function main() {
   const date = todayStr();
 
   if (!pricesPath || !fs.existsSync(pricesPath)) {
-    console.error(`Не знайшов файл прайсу. Вкажи --prices "шлях/heli prices.xls" (шукав *heli*price*.xls|xlsx|csv у ${repoRoot})`);
+    console.error(`Не знайшов файл прайсу. Вкажи --prices "шлях/heli prices.xls" (шукав *heli*price*|*heli*stock*.xls|xlsx|csv у ${repoRoot})`);
     process.exit(1);
   }
   if (!fs.existsSync(catalogPath)) {
@@ -148,6 +148,13 @@ function main() {
   const feedPath = path.join(outDir, `heli-feed-${date}.xml`);
   fs.writeFileSync(feedPath, feedXml, 'utf8');
   console.log(`Написав ${feedPath} (XML-фід для BCS Data.Imports)`);
+
+  // ---- stable-path copy: same file every run (overwritten, never dated) -----
+  // this is the one BCS actually polls via a fixed URL (see README "Стабільний URL")
+  const stableFeedPath = path.join(toolDir, 'feed', 'heli-import.xml');
+  fs.mkdirSync(path.dirname(stableFeedPath), { recursive: true });
+  fs.writeFileSync(stableFeedPath, feedXml, 'utf8');
+  console.log(`Оновив ${stableFeedPath} (стабільний шлях для BCS, git commit+push — окремим кроком)`);
   console.log('');
 
   // ---- mark this run's "new" items as drafted, so they aren't redrafted

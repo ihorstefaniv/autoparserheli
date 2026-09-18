@@ -1,34 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-  <product>
-    <model>CPD25-GD2LI-M</model>
-    <brand>Heli</brand>
-    <series>G2</series>
-    <ExternalId>CPD25-GD2LI-M</ExternalId>
-    <is_active>false</is_active>
-    <capacity_t>2.5</capacity_t>
-    <capacity_kg>2500</capacity_kg>
-    <engine_type>Elektro</engine_type>
-    <battery>Lithium-Batterie</battery>
-    <battery_voltage_v_ah>80/280</battery_voltage_v_ah>
-    <front_tires>No-marking Solid Tyres</front_tires>
-    <rear_tires>No-marking Solid Tyres</rear_tires>
-    <options>MAST: ZSM470 | Tyres: No-marking Solid Tyres | Attachments: HELI Hook-on Side Shift | Cabin: High Cabin and heater | Special: P-ADAS System, Front Double cylinder</options>
-    <Name>Elektrostapler CPD25-GD2LI-M</Name>
-  </product>
-  <product>
-    <model>CPCD100-CU1ZG3</model>
-    <brand>Heli</brand>
-    <series>G3</series>
-    <ExternalId>CPCD100-CU1ZG3</ExternalId>
-    <is_active>false</is_active>
-    <capacity_t>10.0</capacity_t>
-    <capacity_kg>10000</capacity_kg>
-    <engine_type>Diesel</engine_type>
-    <motor>Cummins engine</motor>
-    <front_tires>Front Dual Solid Tyres</front_tires>
-    <rear_tires>Front Dual Solid Tyres</rear_tires>
-    <options>MAST: ZSM450 | Tyres: Front Dual Solid Tyres | Attachments: TWS Integrated Fork Positioner with Sideshift | Cabin: High Cabin and heater | Special: Fingertips Control, Front double cylinder, T-ADAS System</options>
-    <Name>Dieselstapler CPCD100-CU1ZG3</Name>
-  </product>
+
 </products>
