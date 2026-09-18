@@ -1,4 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-
+  <product>
+    <model>CBD15-BLIH</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CBD15-BLIH</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery>Lithium-Batterie</battery>
+    <battery_voltage_v_ah>24/40</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: / | Tyres: / | Special: /</options>
+    <Name>Elektrostapler CBD15-BLIH</Name>
+  </product>
+  <product>
+    <model>CBD15C-LI4</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CBD15C-LI4</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery>Lithium-Batterie</battery>
+    <battery_voltage_v_ah>48/10</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CBD15C-LI4</Name>
+  </product>
+  <product>
+    <model>CBD20C-LI4</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CBD20C-LI4</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery>Lithium-Batterie</battery>
+    <battery_voltage_v_ah>48/20</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CBD20C-LI4</Name>
+  </product>
+  <product>
+    <model>CBD25-A2FLIH</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CBD25-A2FLIH</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery>Lithium-Batterie</battery>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CBD25-A2FLIH</Name>
+  </product>
+  <product>
+    <model>CDD12R-S</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CDD12R-S</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: M250 | Tyres: / | Attachments: / | Cabin: /</options>
+    <Name>Elektrostapler CDD12R-S</Name>
+  </product>
+  <product>
+    <model>CDD15C-S</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CDD15C-S</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery_voltage_v_ah>24/85</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CDD15C-S</Name>
+  </product>
+  <product>
+    <model>CDD15J</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CDD15J</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery_voltage_v_ah>24/100</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: M300 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CDD15J</Name>
+  </product>
+  <product>
+    <model>CDD15J-ZSM</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CDD15J-ZSM</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery_voltage_v_ah>24/210</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: ZSM400 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CDD15J-ZSM</Name>
+  </product>
+  <product>
+    <model>CDD16-A2FLIH</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CDD16-A2FLIH</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery>Lithium-Batterie</battery>
+    <battery_voltage_v_ah>24/205</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: ZSM540 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CDD16-A2FLIH</Name>
+  </product>
+  <product>
+    <model>CDD20-A2FLIH</model>
+    <brand>Heli</brand>
+    <series>-</series>
+    <ExternalId>CDD20-A2FLIH</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+    <battery>Lithium-Batterie</battery>
+    <battery_voltage_v_ah>24/300</battery_voltage_v_ah>
+    <front_tires>/</front_tires>
+    <rear_tires>/</rear_tires>
+    <options>MAST: ZSM470 | Tyres: / | Attachments: / | Cabin: / | Special: /</options>
+    <Name>Elektrostapler CDD20-A2FLIH</Name>
+  </product>
+  <product>
+    <model>CPCD25-KU24RG3</model>
+    <brand>Heli</brand>
+    <series>G3</series>
+    <ExternalId>CPCD25-KU24RG3</ExternalId>
+    <is_active>false</is_active>
+    <engine_type>Diesel</engine_type>
+    <motor>KUBOTA V2403</motor>
+    <front_tires>Solid Tyres</front_tires>
+    <rear_tires>Solid Tyres</rear_tires>
+    <options>MAST: ZSM600 | Tyres: Solid Tyres | Attachments: HELI Hook-on Side-shift | Cabin: Cabin and heater | Special: /</options>
+    <Name>Dieselstapler CPCD25-KU24RG3</Name>
+  </product>
 </products>
