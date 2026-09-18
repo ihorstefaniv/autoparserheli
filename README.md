@@ -77,6 +77,36 @@ new-cards-draft CSV, у форматі `<products><product>...</product></produc
 `is_active` — новий атрибут у BCS під категорію forklift, ще не існував до
 цього фіду.
 
+Кожен `<product>` завжди несе **всі** колонки `items.csv` (порожній тег, якщо
+поле не заповнене) — не тільки ті, що мають значення. Це важливо: BCS
+(`UniversalImportAdapter.productFromItem`) визначає список доступних для
+мапінгу колонок з `Object.keys()` **першого** товару у файлі — якби товари
+несли різний/скорочений набір тегів, більшість атрибутів `items.csv` ніколи
+не з'явилась би для мапінгу в UI імпорту (саме так і було до фіксу 2026-09-18).
+
+**Ручний мапінг колонок у BCS** (Import → налаштування → Column mapping) —
+реально заповнені цим фідом поля, решта завжди порожні (мапити їх не
+обов'язково):
+
+| Тег у XML | Атрибут у BCS |
+|---|---|
+| `Id` | `Id` (систем., для оновлення існуючої картки) |
+| `ExternalId` | `ExternalId` (систем.) |
+| `Name` | `Name` (систем.) |
+| `model` | `model` |
+| `brand` | `brand` |
+| `series` | `series` |
+| `is_active` | `is_active` (новий атрибут, якщо ще не створений — див. вище) |
+| `capacity_t` | `capacity/t` |
+| `capacity_kg` | `capacity/kg` |
+| `engine_type` | `engine_type` |
+| `battery` | `battery` |
+| `battery_voltage_v_ah` | `battery_voltage_v/ah` |
+| `motor` | `motor` |
+| `front_tires` | `front_tires` |
+| `rear_tires` | `rear_tires` |
+| `options` | `options` |
+
 Стабільний URL для BCS (`DataSource: url`, `DataFormat: xml`, `Interval: ...`):
 `https://raw.githubusercontent.com/ihorstefaniv/autoparserheli/main/feed/heli-import.xml`
 — хмарний routine щодня комітить туди свіжий XML (репо має бути публічним, інакше
