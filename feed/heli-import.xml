@@ -77,6 +77,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>false</available>
   </product>
   <product>
     <Id></Id>
@@ -155,6 +157,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -233,6 +237,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -311,6 +317,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -389,6 +397,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -467,6 +477,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -545,6 +557,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -623,6 +637,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -701,6 +717,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -779,6 +797,8 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
   <product>
     <Id></Id>
@@ -857,5 +877,7 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <is_active>false</is_active>
+    <available>true</available>
   </product>
 </products>
