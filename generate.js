@@ -170,7 +170,7 @@ function main() {
   console.log('');
 
   // ---- BCS auto-import XML feed (same new/changed scope as the draft CSV) ----
-  const feedXml = buildFeedXml(classified);
+  const feedXml = buildFeedXml(classified, catalog.headers);
   const feedPath = path.join(outDir, `heli-feed-${date}.xml`);
   fs.writeFileSync(feedPath, feedXml, 'utf8');
   console.log(`Написав ${feedPath} (XML-фід для BCS Data.Imports)`);
