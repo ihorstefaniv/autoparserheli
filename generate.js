@@ -117,6 +117,32 @@ function main() {
       console.log(`  ~ ${c.model}: ${bits.join(', ')}`);
     });
     console.log('');
+
+    // ---- persist the same day-over-day diff to a file (console output alone
+    // disappears once the run ends) ----
+    const changelogRows = [
+      ...diff.added.map((m) => ({
+        Action: 'added', Model: m.model, Qty: m.qty, QtyDelta: '',
+        PriceBefore: '', PriceAfter: m.prices[0] ?? '', PriceDelta: '', SpecChanged: '',
+      })),
+      ...diff.removed.map((m) => ({
+        Action: 'removed', Model: m.model, Qty: '', QtyDelta: '',
+        PriceBefore: m.prices[0] ?? '', PriceAfter: '', PriceDelta: '', SpecChanged: '',
+      })),
+      ...diff.changed.map((c) => ({
+        Action: 'changed', Model: c.model, Qty: '', QtyDelta: c.qtyDelta || '',
+        PriceBefore: c.priceBefore ?? '', PriceAfter: c.priceAfter ?? '', PriceDelta: c.priceDelta || '',
+        SpecChanged: c.specChanged ? 'yes' : '',
+      })),
+    ];
+    const changelogCsv = Papa.unparse({
+      fields: ['Action', 'Model', 'Qty', 'QtyDelta', 'PriceBefore', 'PriceAfter', 'PriceDelta', 'SpecChanged'],
+      data: changelogRows,
+    });
+    const changelogPath = path.join(outDir, `changelog-${date}.csv`);
+    fs.writeFileSync(changelogPath, changelogCsv, 'utf8');
+    console.log(`Написав ${changelogPath} (${changelogRows.length} подій: +${diff.added.length} / -${diff.removed.length} / ~${diff.changed.length})`);
+    console.log('');
   }
 
   // ---- catalog classification ----
