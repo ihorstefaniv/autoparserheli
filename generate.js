@@ -161,8 +161,8 @@ function main() {
   // Uses the real BCS attribute schema (lib/productSchema.js), not items.csv's
   // own headers - see buildRowFields' comment for why.
   const { rows, rowMeta } = buildDraftRows(classified, PRODUCT_ATTRIBUTES);
+  const csv = Papa.unparse({ fields: PRODUCT_ATTRIBUTES, data: rows }, { quotes: false });
   if (rows.length) {
-    const csv = Papa.unparse({ fields: PRODUCT_ATTRIBUTES, data: rows }, { quotes: false });
     const draftPath = path.join(outDir, `new-cards-draft-${date}.csv`);
     fs.writeFileSync(draftPath, csv, 'utf8');
     console.log(`Написав ${draftPath} (${rows.length} рядків: ${rowMeta.filter((r) => r.status === 'new').length} нових, ${rowMeta.filter((r) => r.status === 'changed').length} оновлених)`);
@@ -170,6 +170,15 @@ function main() {
   } else {
     console.log('Нових чи змінених карток немає — CSV не пишу.');
   }
+  console.log('');
+
+  // ---- stable-path CSV copy: same file every run, mirrors feed/heli-import.xml
+  // below - lets BCS's Data.Imports point at one permanent CSV URL too, instead
+  // of a dated filename that changes every day ----
+  const stableDraftPath = path.join(toolDir, 'feed', 'heli-import.csv');
+  fs.mkdirSync(path.dirname(stableDraftPath), { recursive: true });
+  fs.writeFileSync(stableDraftPath, csv, 'utf8');
+  console.log(`Оновив ${stableDraftPath} (стабільний шлях для BCS CSV-імпорту)`);
   console.log('');
 
   // ---- BCS auto-import XML feed (same new/changed scope as the draft CSV) ----
