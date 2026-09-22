@@ -2,7 +2,7 @@
 <products>
   <product>
     <Id></Id>
-    <ExternalId>CBD15-BLIH</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CBD15-BLIH</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -28,7 +28,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -81,12 +81,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CBD15-BLIH</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CBD15C-LI4</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CBD15C-LI4</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -112,7 +114,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -165,12 +167,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CBD15C-LI4</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CBD20C-LI4</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CBD20C-LI4</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -196,7 +200,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -249,12 +253,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CBD20C-LI4</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CBD25-A2FLIH</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CBD25-A2FLIH</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -280,7 +286,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -333,12 +339,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CBD25-A2FLIH</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CDD12R-S</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD12R-S</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -364,7 +372,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -417,12 +425,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CDD12R-S</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CDD15C-S</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD15C-S</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -448,7 +458,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -501,12 +511,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CDD15C-S</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CDD15J</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD15J</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -532,7 +544,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -585,12 +597,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CDD15J</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CDD15J-ZSM</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD15J-ZSM</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -616,7 +630,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -669,12 +683,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CDD15J-ZSM</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CDD16-A2FLIH</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD16-A2FLIH</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -700,7 +716,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -753,12 +769,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CDD16-A2FLIH</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CDD20-A2FLIH</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD20-A2FLIH</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -784,7 +802,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine></engine>
-    <enginetype>Elektro</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -837,12 +855,14 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CDD20-A2FLIH</ext_id>
     <series>-</series>
     <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
   </product>
   <product>
     <Id></Id>
-    <ExternalId>CPCD25-KU24RG3</ExternalId>
+    <ExternalId></ExternalId>
     <Name>Dieselstapler CPCD25-KU24RG3</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -868,7 +888,7 @@
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
     <engine>KUBOTA V2403</engine>
-    <enginetype>Diesel</enginetype>
+    <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
     <forks></forks>
@@ -921,7 +941,9 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
+    <ext_id>CPCD25-KU24RG3</ext_id>
     <series>G3</series>
     <is_active>false</is_active>
+    <engine_type>Diesel</engine_type>
   </product>
 </products>
