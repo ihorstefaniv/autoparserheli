@@ -347,6 +347,178 @@
   <product>
     <Id></Id>
     <ExternalId></ExternalId>
+    <Name>Elektrostapler CDD12R-S</Name>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery></battery>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype></enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
+    <has_image></has_image>
+    <height></height>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
+    <model>CDD12R-S</model>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: M250 | Tyres: / | Attachments: / | Cabin: /</techdescr>
+    <toc></toc>
+    <transmission></transmission>
+    <type></type>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
+    <ImportId></ImportId>
+    <CreatedAt></CreatedAt>
+    <UpdatedAt></UpdatedAt>
+    <ext_id>CDD12R-S</ext_id>
+    <series>-</series>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+  </product>
+  <product>
+    <Id></Id>
+    <ExternalId></ExternalId>
+    <Name>Elektrostapler CDD15C-S</Name>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 85Ah</battery>
+    <batterytype></batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity></capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype></enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
+    <has_image></has_image>
+    <height></height>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
+    <model>CDD15C-S</model>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
+    <transmission></transmission>
+    <type></type>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
+    <ImportId></ImportId>
+    <CreatedAt></CreatedAt>
+    <UpdatedAt></UpdatedAt>
+    <ext_id>CDD15C-S</ext_id>
+    <series>-</series>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+  </product>
+  <product>
+    <Id></Id>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD15J</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -404,7 +576,7 @@
     <rental></rental>
     <suctionwidth></suctionwidth>
     <techcond></techcond>
-    <techdescr>MAST: M300 | Tyres: / | Attachments: / | Cabin: /</techdescr>
+    <techdescr>MAST: M300 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
     <toc></toc>
     <transmission></transmission>
     <type></type>
