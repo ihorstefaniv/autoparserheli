@@ -175,91 +175,6 @@
   <product>
     <Id></Id>
     <ExternalId></ExternalId>
-    <Name>â¬ 2,610.00</Name>
-    <addeqbits></addeqbits>
-    <addequip></addequip>
-    <allwheel></allwheel>
-    <armbroad></armbroad>
-    <armlength></armlength>
-    <armsize></armsize>
-    <attachbit></attachbit>
-    <attachments></attachments>
-    <available>false</available>
-    <balancepoint></balancepoint>
-    <basketload></basketload>
-    <battery></battery>
-    <batterytype></batterytype>
-    <brushpressure></brushpressure>
-    <buildbroad></buildbroad>
-    <capacity></capacity>
-    <carrbroad></carrbroad>
-    <chassisno></chassisno>
-    <cleaningwidth></cleaningwidth>
-    <closedheight></closedheight>
-    <custprice></custprice>
-    <dailyrentprice></dailyrentprice>
-    <dealerprice></dealerprice>
-    <engine></engine>
-    <enginetype></enginetype>
-    <forkcarr></forkcarr>
-    <forklength></forklength>
-    <forks></forks>
-    <freelift></freelift>
-    <frontend></frontend>
-    <has_image></has_image>
-    <height></height>
-    <hours></hours>
-    <hours_9p></hours_9p>
-    <internalno></internalno>
-    <intprice></intprice>
-    <isoclass></isoclass>
-    <latrange></latrange>
-    <length></length>
-    <liftingheight></liftingheight>
-    <loadcenter></loadcenter>
-    <loccity></loccity>
-    <loccountry></loccountry>
-    <locpostcode></locpostcode>
-    <manufacturer>Heli</manufacturer>
-    <masttype></masttype>
-    <model>â¬ 2,610.00</model>
-    <monthlyrentpr></monthlyrentpr>
-    <optcond></optcond>
-    <platfeedmot></platfeedmot>
-    <rangefrom></rangefrom>
-    <rangeto></rangeto>
-    <remarks></remarks>
-    <rental></rental>
-    <suctionwidth></suctionwidth>
-    <techcond></techcond>
-    <techdescr></techdescr>
-    <toc></toc>
-    <transmission></transmission>
-    <type></type>
-    <type_text></type_text>
-    <tyres></tyres>
-    <tyres2></tyres2>
-    <tyresfront></tyresfront>
-    <tyresrear></tyresrear>
-    <userremarks></userremarks>
-    <viewhp></viewhp>
-    <warranty></warranty>
-    <weeklyrentpr></weeklyrentpr>
-    <weight></weight>
-    <width></width>
-    <workheight></workheight>
-    <yoc></yoc>
-    <yturl></yturl>
-    <ImportId></ImportId>
-    <CreatedAt></CreatedAt>
-    <UpdatedAt></UpdatedAt>
-    <ext_id>â¬ 2,610.00</ext_id>
-    <series></series>
-    <is_active>false</is_active>
-  </product>
-  <product>
-    <Id></Id>
-    <ExternalId></ExternalId>
     <Name></Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -317,7 +232,7 @@
     <rental></rental>
     <suctionwidth></suctionwidth>
     <techcond></techcond>
-    <techdescr>MAST: M160 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <techdescr>MAST: M160 | Tyres: / | Attachments: / | Special: /</techdescr>
     <toc></toc>
     <transmission></transmission>
     <type></type>
@@ -690,7 +605,7 @@
   <product>
     <Id></Id>
     <ExternalId></ExternalId>
-    <Name>Rough terrain forklift</Name>
+    <Name>Dieselstapler CPCD25-KU5Y4G3</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
     <allwheel></allwheel>
@@ -714,7 +629,7 @@
     <custprice></custprice>
     <dailyrentprice></dailyrentprice>
     <dealerprice></dealerprice>
-    <engine>ZSM470</engine>
+    <engine>Kubota V2403</engine>
     <enginetype></enginetype>
     <forkcarr></forkcarr>
     <forklength></forklength>
@@ -737,7 +652,7 @@
     <locpostcode></locpostcode>
     <manufacturer>Heli</manufacturer>
     <masttype></masttype>
-    <model>Rough terrain forklift</model>
+    <model>CPCD25-KU5Y4G3</model>
     <monthlyrentpr></monthlyrentpr>
     <optcond></optcond>
     <platfeedmot></platfeedmot>
@@ -747,15 +662,15 @@
     <rental></rental>
     <suctionwidth></suctionwidth>
     <techcond></techcond>
-    <techdescr>MAST: Pneumatic Tyres | Tyres: Integrated Side Shift | Attachments: Cabin and Heater | Cabin: / | Special: ZSM470 / Rough terrain forklift / Pneumatic TYRE / 4 VALVES and double IHR / 1220mm Forks / Grabmmer Suspension Seat / OPS / Integrated Side Shift / LED lights / High exhaust / Cabin&amp;heater</techdescr>
+    <techdescr>MAST: ZSM470 | Tyres: Pneumatic Tyres | Attachments: Integrated Side Shift | Cabin: Cabin and Heater | Special: /</techdescr>
     <toc></toc>
     <transmission></transmission>
     <type></type>
     <type_text></type_text>
     <tyres></tyres>
     <tyres2></tyres2>
-    <tyresfront>Integrated Side Shift</tyresfront>
-    <tyresrear>Integrated Side Shift</tyresrear>
+    <tyresfront>Pneumatic Tyres</tyresfront>
+    <tyresrear>Pneumatic Tyres</tyresrear>
     <userremarks></userremarks>
     <viewhp></viewhp>
     <warranty></warranty>
@@ -768,9 +683,10 @@
     <ImportId></ImportId>
     <CreatedAt></CreatedAt>
     <UpdatedAt></UpdatedAt>
-    <ext_id>Rough terrain forklift</ext_id>
-    <series>3</series>
+    <ext_id>CPCD25-KU5Y4G3</ext_id>
+    <series>G3</series>
     <is_active>false</is_active>
+    <engine_type>Diesel</engine_type>
   </product>
   <product>
     <Id></Id>
