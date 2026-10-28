@@ -4,8 +4,6 @@ Id,ExternalId,Name,addeqbits,addequip,allwheel,armbroad,armlength,armsize,attach
 ,,Elektrostapler CBD15-BLIH,,,,,,,,,false,,,24V / 40Ah,Lithium-Batterie,,,1500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CBD15-BLIH,,,,,,,,,,MAST: / | Tyres: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
 ,,Elektrostapler CBD20-BLIH,,,,,,,,,false,,,48V / 20Ah,Lithium-Batterie,,,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CBD20-BLIH,,,,,,,,,,MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
 ,,Elektrostapler CBD25-A2FLIH,,,,,,,,,true,,,,Lithium-Batterie,,,2500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CBD25-A2FLIH,,,,,,,,,,MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
-,,,,,,,,,,,true,,,24V / 100Ah,,,,1200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CDD12J,,,,,,,,,,MAST: M300 | Tyres: / | Attachments: / | Cabin: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
-,,,,,,,,,,,true,,,24V / 60Ah,Lithium-Batterie,,,1200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CDD12J-LI,,,,,,,,,,MAST: M350 | Tyres: / | Attachments: / | Cabin: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
 ,,Elektrostapler CDD12R-S,,,,,,,,,false,,,,,,,1200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CDD12R-S,,,,,,,,,,MAST: M250 | Tyres: / | Attachments: / | Cabin: /,,,,,,,/,/,,,,,,,,,,,,
 ,,Elektrostapler CDD15-C,,,,,,,,,false,,,24V / 85Ah,,,,1500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CDD15-C,,,,,,,,,,MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
 ,,Elektrostapler CDD15C-S,,,,,,,,,false,,,24V / 85Ah,,,,1500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heli,,CDD15C-S,,,,,,,,,,MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /,,,,,,,/,/,,,,,,,,,,,,
