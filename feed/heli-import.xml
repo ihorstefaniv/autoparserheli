@@ -182,7 +182,7 @@
     <armsize></armsize>
     <attachbit></attachbit>
     <attachments></attachments>
-    <available>false</available>
+    <available>true</available>
     <balancepoint></balancepoint>
     <basketload></basketload>
     <battery>24V / 40Ah</battery>
@@ -431,6 +431,264 @@
   <product>
     <Id></Id>
     <ExternalId></ExternalId>
+    <Name>Elektrostapler CBD25-A2RBLIH</Name>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 228Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity>2500</capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype></enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
+    <has_image></has_image>
+    <height></height>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
+    <model>CBD25-A2RBLIH</model>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
+    <transmission></transmission>
+    <type></type>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
+    <ImportId></ImportId>
+    <CreatedAt></CreatedAt>
+    <UpdatedAt></UpdatedAt>
+    <ext_id>CBD25-A2RBLIH</ext_id>
+    <series>-</series>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+  </product>
+  <product>
+    <Id></Id>
+    <ExternalId></ExternalId>
+    <Name>Elektrostapler CBD25-B2FLIH</Name>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery>24V / 228Ah</battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity>2500</capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype></enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
+    <has_image></has_image>
+    <height></height>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
+    <model>CBD25-B2FLIH</model>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
+    <transmission></transmission>
+    <type></type>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
+    <ImportId></ImportId>
+    <CreatedAt></CreatedAt>
+    <UpdatedAt></UpdatedAt>
+    <ext_id>CBD25-B2FLIH</ext_id>
+    <series>-</series>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+  </product>
+  <product>
+    <Id></Id>
+    <ExternalId></ExternalId>
+    <Name>Elektrostapler CDD12-A2DLIH</Name>
+    <addeqbits></addeqbits>
+    <addequip></addequip>
+    <allwheel></allwheel>
+    <armbroad></armbroad>
+    <armlength></armlength>
+    <armsize></armsize>
+    <attachbit></attachbit>
+    <attachments></attachments>
+    <available>true</available>
+    <balancepoint></balancepoint>
+    <basketload></basketload>
+    <battery></battery>
+    <batterytype>Lithium-Batterie</batterytype>
+    <brushpressure></brushpressure>
+    <buildbroad></buildbroad>
+    <capacity>1600</capacity>
+    <carrbroad></carrbroad>
+    <chassisno></chassisno>
+    <cleaningwidth></cleaningwidth>
+    <closedheight></closedheight>
+    <custprice></custprice>
+    <dailyrentprice></dailyrentprice>
+    <dealerprice></dealerprice>
+    <engine></engine>
+    <enginetype></enginetype>
+    <forkcarr></forkcarr>
+    <forklength></forklength>
+    <forks></forks>
+    <freelift></freelift>
+    <frontend></frontend>
+    <has_image></has_image>
+    <height></height>
+    <hours></hours>
+    <hours_9p></hours_9p>
+    <internalno></internalno>
+    <intprice></intprice>
+    <isoclass></isoclass>
+    <latrange></latrange>
+    <length></length>
+    <liftingheight></liftingheight>
+    <loadcenter></loadcenter>
+    <loccity></loccity>
+    <loccountry></loccountry>
+    <locpostcode></locpostcode>
+    <manufacturer>Heli</manufacturer>
+    <masttype></masttype>
+    <model>CDD12-A2DLIH</model>
+    <monthlyrentpr></monthlyrentpr>
+    <optcond></optcond>
+    <platfeedmot></platfeedmot>
+    <rangefrom></rangefrom>
+    <rangeto></rangeto>
+    <remarks></remarks>
+    <rental></rental>
+    <suctionwidth></suctionwidth>
+    <techcond></techcond>
+    <techdescr>MAST: ZSM450 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <toc></toc>
+    <transmission></transmission>
+    <type></type>
+    <type_text></type_text>
+    <tyres></tyres>
+    <tyres2></tyres2>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
+    <userremarks></userremarks>
+    <viewhp></viewhp>
+    <warranty></warranty>
+    <weeklyrentpr></weeklyrentpr>
+    <weight></weight>
+    <width></width>
+    <workheight></workheight>
+    <yoc></yoc>
+    <yturl></yturl>
+    <ImportId></ImportId>
+    <CreatedAt></CreatedAt>
+    <UpdatedAt></UpdatedAt>
+    <ext_id>CDD12-A2DLIH</ext_id>
+    <series>-</series>
+    <is_active>false</is_active>
+    <engine_type>Elektro</engine_type>
+  </product>
+  <product>
+    <Id></Id>
+    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD12R-S</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -612,7 +870,7 @@
     <armsize></armsize>
     <attachbit></attachbit>
     <attachments></attachments>
-    <available>false</available>
+    <available>true</available>
     <balancepoint></balancepoint>
     <basketload></basketload>
     <battery>24V / 85Ah</battery>
