@@ -603,92 +603,6 @@
   <product>
     <Id></Id>
     <ExternalId></ExternalId>
-    <Name>Elektrostapler CCD12J</Name>
-    <addeqbits></addeqbits>
-    <addequip></addequip>
-    <allwheel></allwheel>
-    <armbroad></armbroad>
-    <armlength></armlength>
-    <armsize></armsize>
-    <attachbit></attachbit>
-    <attachments></attachments>
-    <available>true</available>
-    <balancepoint></balancepoint>
-    <basketload></basketload>
-    <battery>24V / 100Ah</battery>
-    <batterytype></batterytype>
-    <brushpressure></brushpressure>
-    <buildbroad></buildbroad>
-    <capacity>1200</capacity>
-    <carrbroad></carrbroad>
-    <chassisno></chassisno>
-    <cleaningwidth></cleaningwidth>
-    <closedheight></closedheight>
-    <custprice></custprice>
-    <dailyrentprice></dailyrentprice>
-    <dealerprice></dealerprice>
-    <engine></engine>
-    <enginetype></enginetype>
-    <forkcarr></forkcarr>
-    <forklength></forklength>
-    <forks></forks>
-    <freelift></freelift>
-    <frontend></frontend>
-    <has_image></has_image>
-    <height></height>
-    <hours></hours>
-    <hours_9p></hours_9p>
-    <internalno></internalno>
-    <intprice></intprice>
-    <isoclass></isoclass>
-    <latrange></latrange>
-    <length></length>
-    <liftingheight></liftingheight>
-    <loadcenter></loadcenter>
-    <loccity></loccity>
-    <loccountry></loccountry>
-    <locpostcode></locpostcode>
-    <manufacturer>Heli</manufacturer>
-    <masttype></masttype>
-    <model>CCD12J</model>
-    <monthlyrentpr></monthlyrentpr>
-    <optcond></optcond>
-    <platfeedmot></platfeedmot>
-    <rangefrom></rangefrom>
-    <rangeto></rangeto>
-    <remarks></remarks>
-    <rental></rental>
-    <suctionwidth></suctionwidth>
-    <techcond></techcond>
-    <techdescr>MAST: M350 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
-    <toc></toc>
-    <transmission></transmission>
-    <type></type>
-    <type_text></type_text>
-    <tyres></tyres>
-    <tyres2></tyres2>
-    <tyresfront>/</tyresfront>
-    <tyresrear>/</tyresrear>
-    <userremarks></userremarks>
-    <viewhp></viewhp>
-    <warranty></warranty>
-    <weeklyrentpr></weeklyrentpr>
-    <weight></weight>
-    <width></width>
-    <workheight></workheight>
-    <yoc></yoc>
-    <yturl></yturl>
-    <ImportId></ImportId>
-    <CreatedAt></CreatedAt>
-    <UpdatedAt></UpdatedAt>
-    <ext_id>CCD12J</ext_id>
-    <series>-</series>
-    <is_active>false</is_active>
-    <engine_type>Elektro</engine_type>
-  </product>
-  <product>
-    <Id></Id>
-    <ExternalId></ExternalId>
     <Name>Elektrostapler CDD12-A2DLIH</Name>
     <addeqbits></addeqbits>
     <addequip></addequip>
@@ -702,7 +616,7 @@
     <balancepoint></balancepoint>
     <basketload></basketload>
     <battery></battery>
-    <batterytype>Lithium-Batterie</batterytype>
+    <batterytype></batterytype>
     <brushpressure></brushpressure>
     <buildbroad></buildbroad>
     <capacity>1600</capacity>
@@ -873,7 +787,7 @@
     <available>false</available>
     <balancepoint></balancepoint>
     <basketload></basketload>
-    <battery>24V / 85Ah</battery>
+    <battery></battery>
     <batterytype></batterytype>
     <brushpressure></brushpressure>
     <buildbroad></buildbroad>
@@ -918,15 +832,15 @@
     <rental></rental>
     <suctionwidth></suctionwidth>
     <techcond></techcond>
-    <techdescr>MAST: / | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <techdescr>MAST: ////// | Tyres: M250/ 570*1150mm forks/ Built in CHARGER/ 24V/85Ah Maintenance free battery | Attachments: Delivered | Special: Friedberg-Hessen</techdescr>
     <toc></toc>
     <transmission></transmission>
     <type></type>
     <type_text></type_text>
     <tyres></tyres>
     <tyres2></tyres2>
-    <tyresfront>/</tyresfront>
-    <tyresrear>/</tyresrear>
+    <tyresfront>M250/ 570*1150mm forks/ Built in CHARGER/ 24V/85Ah Maintenance free battery</tyresfront>
+    <tyresrear>M250/ 570*1150mm forks/ Built in CHARGER/ 24V/85Ah Maintenance free battery</tyresrear>
     <userremarks></userremarks>
     <viewhp></viewhp>
     <warranty></warranty>
