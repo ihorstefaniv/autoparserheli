@@ -616,7 +616,7 @@
     <balancepoint></balancepoint>
     <basketload></basketload>
     <battery></battery>
-    <batterytype></batterytype>
+    <batterytype>Lithium-Batterie</batterytype>
     <brushpressure></brushpressure>
     <buildbroad></buildbroad>
     <capacity>1600</capacity>
@@ -787,7 +787,7 @@
     <available>false</available>
     <balancepoint></balancepoint>
     <basketload></basketload>
-    <battery></battery>
+    <battery>24V / 85Ah</battery>
     <batterytype></batterytype>
     <brushpressure></brushpressure>
     <buildbroad></buildbroad>
@@ -832,15 +832,15 @@
     <rental></rental>
     <suctionwidth></suctionwidth>
     <techcond></techcond>
-    <techdescr>MAST: ////// | Tyres: M250/ 570*1150mm forks/ Built in CHARGER/ 24V/85Ah Maintenance free battery | Attachments: Delivered | Special: Friedberg-Hessen</techdescr>
+    <techdescr>MAST: M250 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
     <toc></toc>
     <transmission></transmission>
     <type></type>
     <type_text></type_text>
     <tyres></tyres>
     <tyres2></tyres2>
-    <tyresfront>M250/ 570*1150mm forks/ Built in CHARGER/ 24V/85Ah Maintenance free battery</tyresfront>
-    <tyresrear>M250/ 570*1150mm forks/ Built in CHARGER/ 24V/85Ah Maintenance free battery</tyresrear>
+    <tyresfront>/</tyresfront>
+    <tyresrear>/</tyresrear>
     <userremarks></userremarks>
     <viewhp></viewhp>
     <warranty></warranty>
@@ -1176,7 +1176,7 @@
     <rental></rental>
     <suctionwidth></suctionwidth>
     <techcond></techcond>
-    <techdescr>MAST: ZSM540 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
+    <techdescr>MAST: ZSM450 | Tyres: / | Attachments: / | Cabin: / | Special: /</techdescr>
     <toc></toc>
     <transmission></transmission>
     <type></type>
